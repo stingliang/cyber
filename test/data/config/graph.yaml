@@ -1,0 +1,17 @@
+nodes:
+  - id: A
+    label: Node A
+  - id: B
+    label: Node B
+  - id: C
+    label: Node C
+  - id: D
+    label: Node D
+
+edges:
+  - source: A
+    target: B
+  - source: B
+    target: C
+  - source: A
+    target: D

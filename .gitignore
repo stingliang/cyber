@@ -1,0 +1,13 @@
+**/build/
+**/bin/
+.vscode/
+perception/.clion.source.upload.marker
+.idea
+**/deps/
+**/BuildInfo.h
+**/cmake-build*
+**/.vscode*
+**/.clion*
+**/template/*.h
+**/template/*.c*
+**/output/**
